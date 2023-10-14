@@ -1,0 +1,14 @@
+{
+  "name": "lights-benchmarking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DolphinIQ",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.138.3"
+  }
+}
