@@ -67,7 +67,7 @@ function init() {
     addMeshes();
 
 	// Lights
-	const numOfPointLights = 50;
+	const numOfPointLights = 80;
 	addPointLights( numOfPointLights );
 
     // Editing lights chunks
